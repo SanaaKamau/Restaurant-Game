@@ -19,10 +19,11 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        Vector3 moveDirection = new Vector3(moveInput.x, 0f, moveInput.y);
+        Vector3 moveDirection = new Vector3(-moveInput.x, 0f, -moveInput.y);
 
-        
+
         rb.velocity = moveDirection * moveSpeed;
+        Debug.Log(moveInput);
         
     }
 }
