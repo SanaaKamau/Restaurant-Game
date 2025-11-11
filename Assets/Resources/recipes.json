@@ -1,0 +1,26 @@
+{
+  "recipes": [
+    {
+      "ID": 101,
+      "Name": "Burger",
+      "Description": "A juicy burger with lettuce and bun.",
+      "IconPath": "Icons/Burger",
+      "PrefabPath": "Prefabs/Food/Burger",
+      "Ingredients": [
+        { "IngredientID": 1, "Quantity": 1 },
+        { "IngredientID": 2, "Quantity": 1 },
+        { "IngredientID": 3, "Quantity": 2 }
+      ]
+    },
+    {
+      "ID": 102,
+      "Name": "Salad",
+      "Description": "A light salad with lettuce and dressing.",
+      "IconPath": "Icons/Salad",
+      "PrefabPath": "Prefabs/Food/Salad",
+      "Ingredients": [
+        { "IngredientID": 2, "Quantity": 3 }
+      ]
+    }
+  ]
+}

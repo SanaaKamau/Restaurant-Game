@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    {
+      "ID": 1,
+      "Name": "Onion",
+      "Description": "Freshly ground beef patty.",
+      "IconPath": "Icons/BeefPatty",
+      "PrefabPath": "Prefabs/Ingredients/BeefPatty"
+      
+    },
+    {
+      "ID": 2,
+      "Name": "Tomato",
+      "Description": "Crisp green lettuce.",
+      "IconPath": "Icons/Lettuce",
+      "PrefabPath": "Prefabs/Ingredients/Lettuce"
+    },
+    {
+      "ID": 3,
+      "Name": "Bell Pepper",
+      "Description": "Soft burger bun.",
+      "IconPath": "Icons/Bun",
+      "PrefabPath": "Prefabs/Ingredients/Bun"
+    }
+  ]
+}
