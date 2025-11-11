@@ -75,11 +75,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.EditorCoroutines.Edit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.CollabProxy.Editor", "Unity.CollabProxy.Editor.csproj", "{F69048D6-8E3F-7DE4-7620-CE54DA9DA896}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0435B525-095B-6388-E563-72E6720F35FD}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualScripting.Shared.Editor", "Unity.VisualScripting.Shared.Editor.csproj", "{0A708625-8ED0-FEA1-6F59-C4B0FAEACCB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlasticSCM.Editor.Entities", "Unity.PlasticSCM.Editor.Entities.csproj", "{8EDDB83C-2F86-3931-BBF7-41C67E800D2F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0435B525-095B-6388-E563-72E6720F35FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -235,6 +235,10 @@ Global
 		{F69048D6-8E3F-7DE4-7620-CE54DA9DA896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F69048D6-8E3F-7DE4-7620-CE54DA9DA896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F69048D6-8E3F-7DE4-7620-CE54DA9DA896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0435B525-095B-6388-E563-72E6720F35FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0435B525-095B-6388-E563-72E6720F35FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0435B525-095B-6388-E563-72E6720F35FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0435B525-095B-6388-E563-72E6720F35FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A708625-8ED0-FEA1-6F59-C4B0FAEACCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0A708625-8ED0-FEA1-6F59-C4B0FAEACCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A708625-8ED0-FEA1-6F59-C4B0FAEACCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -243,10 +247,6 @@ Global
 		{8EDDB83C-2F86-3931-BBF7-41C67E800D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EDDB83C-2F86-3931-BBF7-41C67E800D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EDDB83C-2F86-3931-BBF7-41C67E800D2F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0435B525-095B-6388-E563-72E6720F35FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0435B525-095B-6388-E563-72E6720F35FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0435B525-095B-6388-E563-72E6720F35FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0435B525-095B-6388-E563-72E6720F35FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
